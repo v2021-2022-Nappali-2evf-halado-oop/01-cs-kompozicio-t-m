@@ -14,8 +14,8 @@ namespace Spectator.Model
         /// <summary>
         /// data member
         /// </summary>
-        public string firstname { get; set; }
-        public string lasname { get; set; }
+        private string firstname;
+        private string lasname; 
 
     }
 }
